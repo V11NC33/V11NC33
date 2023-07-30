@@ -15,6 +15,8 @@ I do not offer my services at the moment. I develop and offer my iade when the o
 - **Visual Studio Code** | Base Coding Software
 - **paint.net** | Base Design Software
 - **Procreate Pocket** | Second Design Software
+- **BlueStacks** | Modding Games & Discord Bots Management
+- **Mimo** | Learning code on Phone!
 
 ## 💼 Projects & Works
 - **Hobbies** | Design, Management, Video & Photo Editing & Developement
@@ -22,7 +24,8 @@ I do not offer my services at the moment. I develop and offer my iade when the o
 
 ## 🛰️ - Find me
 
- - Profile - [@vinceeeeeeeeeee](https://github.com/vinceeeeeeeeeee)
+ - Twitter - [@v11nc33](https://twitter.com/v11nc33)
+ - Profile - [@v11nc33](https://github.com/v11nc33)
 
 ## 📡 - Contact me
- - Conatct me by e-mail with [vincentgvcontact@gmail.com](vincentgvcontact@gmail.com).
+ - Contact me by e-mail with [vincentgvcontact@gmail.com](vincentgvcontact@gmail.com).
