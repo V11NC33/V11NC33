@@ -7,11 +7,11 @@ Hello! My name is **Vince**, I live in Quebec and I'm a part-time developer.
 I do not offer my services at the moment. I develop and offer my iade when the opportunity arises. So don't contact me asking for help or asking me to code software for you, I won't answer you.
 
 ## 💻 - Languages & Tools
-- ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135711251352277062/html_16x16.png "Title") **HTML5** / **CSS3** ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135714399580069898/Sans_titre.png "Title") | Websites, GUI & Interfaces 
-- ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135711751892107367/javascript_16x16.png "Title") **JavaScript** / **NodeJS** ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135715234817003570/Sans_titre.png "Title") | Currently learning...
-- ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135712552815435776/java_16x16.png "Title") **Java** | Minecraft Servers
-- ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135713579367145482/Sans_titre.png "Title") **SQL** | FiveM Servers Databases
-- ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135713835949494364/php_16x16.png "Title") **PHP** | FiveM Servers Databases Management
+- ![HTML5](https://media.discordapp.net/attachments/1133904515570094241/1135711251352277062/html_16x16.png "HTML5") **HTML5** / **CSS3** ![CSS3](https://media.discordapp.net/attachments/1133904515570094241/1135714399580069898/Sans_titre.png "CSS3") | Websites, GUI & Interfaces 
+- ![JavaScript](https://media.discordapp.net/attachments/1133904515570094241/1135711751892107367/javascript_16x16.png "JavaScript") **JavaScript** / **NodeJS** ![NodeJS](https://media.discordapp.net/attachments/1133904515570094241/1135715234817003570/Sans_titre.png "NodeJS") | Currently learning...
+- ![Java](https://media.discordapp.net/attachments/1133904515570094241/1135712552815435776/java_16x16.png "Java") **Java** | Minecraft Servers
+- ![SQL](https://media.discordapp.net/attachments/1133904515570094241/1135713579367145482/Sans_titre.png "SQL") **SQL** | FiveM Servers Databases
+- ![PHP](https://media.discordapp.net/attachments/1133904515570094241/1135713835949494364/php_16x16.png "PHP") **PHP** | FiveM Servers Databases Management
 ###
 - **Visual Studio Code** | Base Coding Software
 - **paint.net** | Base Design Software
