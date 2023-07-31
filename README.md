@@ -20,6 +20,7 @@ I do not offer my services at the moment. I develop and offer my iade when the o
 - **Mimo** | Learning code on Phone!
 
 ### What I use?
+To code, I use my own personal computer. I only have one computer at the moment and I don't have a work computer.
 
 ## 💼 - Projects & Works
 - **Hobbies** | Design, Management, Video & Photo Editing & Developement
