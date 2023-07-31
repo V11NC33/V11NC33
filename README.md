@@ -7,7 +7,7 @@ Hello! My name is **Vince**, I live in Quebec and I'm a part-time developer.
 I do not offer my services at the moment. I develop and offer my iade when the opportunity arises. So don't contact me asking for help or asking me to code software for you, I won't answer you.
 
 ## 💻 - Languages & Tools
-- ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135710561427005441/html_32x32_1.png "Title") **HTML5** / **CSS3** | Websites, GUI & Interfaces
+- ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135711251352277062/html_16x16.png "Title") **HTML5** / **CSS3** | Websites, GUI & Interfaces
 - **JavaScript** / **NodeJS** | Currently learning...
 - **Java** | Minecraft Servers
 - **SQL** | FiveM Servers Databases
