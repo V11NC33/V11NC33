@@ -3,7 +3,7 @@
 [![Static Badge](https://img.shields.io/badge/%40v11nc33-1da1f2?logo=twitter&logoColor=white)](https://twitter.com/v11nc33)
 
 Hello! My name is **Vince**, I live in Quebec and I'm a part-time developer.
-<i class="devicon-html5-plain"></i>
+
 I do not offer my services at the moment. I develop and offer my iade when the opportunity arises. So don't contact me asking for help or asking me to code software for you, I won't answer you.
 
 ## 💻 - Languages & Tools
