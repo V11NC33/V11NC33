@@ -8,7 +8,7 @@ I do not offer my services at the moment. I develop and offer my iade when the o
 
 ## 💻 - Languages & Tools
 - ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135711251352277062/html_16x16.png "Title") **HTML5** / **CSS3** ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135714399580069898/Sans_titre.png "Title") | Websites, GUI & Interfaces 
-- ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135711751892107367/javascript_16x16.png "Title") **JavaScript** / **NodeJS** | Currently learning...
+- ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135711751892107367/javascript_16x16.png "Title") **JavaScript** / **NodeJS** ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135715234817003570/Sans_titre.png "Title") | Currently learning...
 - ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135712552815435776/java_16x16.png "Title") **Java** | Minecraft Servers
 - ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135713579367145482/Sans_titre.png "Title") **SQL** | FiveM Servers Databases
 - ![Alt text](https://media.discordapp.net/attachments/1133904515570094241/1135713835949494364/php_16x16.png "Title") **PHP** | FiveM Servers Databases Management
