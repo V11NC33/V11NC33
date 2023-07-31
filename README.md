@@ -1,5 +1,5 @@
 # 💎 - Hello! I'm Vince
-[![AGPL License](https://img.shields.io/badge/Twitter-@v11nc33-blue.svg)](https://twitter.com/v11nc33)
+![Static Badge](https://img.shields.io/badge/Twitter-%40v11nc33-1da1f2?logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fv11nc33)
 
 Hello! My name is **Vince**, I live in Quebec and I'm a part-time developer.
 
