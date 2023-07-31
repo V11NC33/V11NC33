@@ -7,7 +7,7 @@ Hello! My name is **Vince**, I live in Quebec and I'm a part-time developer.
 I do not offer my services at the moment. I develop and offer my iade when the opportunity arises. So don't contact me asking for help or asking me to code software for you, I won't answer you.
 
 ## 💻 - Languages & Tools
-- ![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html_32x32.png?raw=true)) **HTML5** / **CSS3** | Websites, GUI & Interfaces
+- ![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html_32x32.png?raw=true) **HTML5** / **CSS3** | Websites, GUI & Interfaces
 - **JavaScript** / **NodeJS** | Currently learning...
 - **Java** | Minecraft Servers
 - **SQL** | FiveM Servers Databases
