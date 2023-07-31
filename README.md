@@ -19,6 +19,8 @@ I do not offer my services at the moment. I develop and offer my iade when the o
 - **BlueStacks** | Modding Games & Discord Bots Management
 - **Mimo** | Learning code on Phone!
 
+### What I use?
+
 ## 💼 - Projects & Works
 - **Hobbies** | Design, Management, Video & Photo Editing & Developement
 - **Works** | Designer, Contributor, Atlas & Wiki Manager @ Place Québec
