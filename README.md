@@ -1,4 +1,7 @@
 # 💎 - Hello! I'm Vince
+[![GitHub](https://img.shields.io/badge/GitHub-%40ashtom-239a3b.svg)](https://github.com/ashtom)
+[![Twitter](https://img.shields.io/badge/Twitter-%40ashtom-58a1f2.svg)](https://twitter.com/ashtom)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/ashtom/)
 
 Hello! My name is **Vince**, I live in Quebec and I'm a part-time developer.
 
