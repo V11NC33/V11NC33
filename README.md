@@ -16,8 +16,8 @@ I do not offer my services at the moment. I develop and offer my iade when the o
 - ![Visual Studio Code](https://media.discordapp.net/attachments/1133904515570094241/1135717351782875146/Sans_titre.png "Visual Studio Code") **Visual Studio Code** | Base Coding Software
 - ![paint.net](https://media.discordapp.net/attachments/1133904515570094241/1135717945453051904/Sans_titre.png "paint.net") **paint.net** | Base Design Software
 - ![Procreate Pocket](https://media.discordapp.net/attachments/1133904515570094241/1135718552930885632/Sans_titre.png "Procreate Pocket") **Procreate Pocket** | Second Design Software
-- **BlueStacks** | Modding Games & Discord Bots Management
-- **Mimo** | Learning code on Phone
+- ![Bluestacks](https://media.discordapp.net/attachments/1133904515570094241/1135720068559413319/Sans_titre.png "Bluestacks") **BlueStacks** | Modding Games & Discord Bots Management
+- ![Mimo](https://media.discordapp.net/attachments/1133904515570094241/1135719572247417033/Sans_titre.png "Mimo") **Mimo** | Learning code on Phone
 
 ## 💼 - Projects & Works
 - **Hobbies** | Design, Management, Video & Photo Editing & Developement
