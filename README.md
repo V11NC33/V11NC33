@@ -4,7 +4,7 @@
 
 ![Waving hand](https://media.discordapp.net/attachments/1133904515570094241/1135721230037688360/Sans_titre.png "Waving hand") Hello! My name is **Vince**, I live in Quebec and I'm a part-time developer.
 
-I do not offer my services at the moment. I develop and offer my iade when the opportunity arises. So don't contact me asking for help or asking me to code software for you, I won't answer you.
+![Profile](https://media.discordapp.net/attachments/1133904515570094241/1135722207549608097/Sans_titre.png "Profile") I do not offer my services at the moment. I develop and offer my iade when the opportunity arises. So don't contact me asking for help or asking me to code software for you, I won't answer you.
 
 ## 💻 - Languages & Tools
 - ![HTML5](https://media.discordapp.net/attachments/1133904515570094241/1135711251352277062/html_16x16.png "HTML5") **HTML5** / **CSS3** ![CSS3](https://media.discordapp.net/attachments/1133904515570094241/1135714399580069898/Sans_titre.png "CSS3") | Websites, GUI & Interfaces 
