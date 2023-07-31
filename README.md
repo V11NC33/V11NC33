@@ -17,10 +17,7 @@ I do not offer my services at the moment. I develop and offer my iade when the o
 - **paint.net** | Base Design Software
 - **Procreate Pocket** | Second Design Software
 - **BlueStacks** | Modding Games & Discord Bots Management
-- **Mimo** | Learning code on Phone!
-
-### What I use?
-To code, I use my own personal computer. I only have one computer at the moment and I don't have a work computer.
+- **Mimo** | Learning code on Phone
 
 ## 💼 - Projects & Works
 - **Hobbies** | Design, Management, Video & Photo Editing & Developement
