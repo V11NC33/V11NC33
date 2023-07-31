@@ -1,4 +1,4 @@
-# 💎 - Hello! I'm Vince ![hippo](https://media.discordapp.net/attachments/1135039682581889087/1135670390979571903/wave_animated.gif)
+# 💎 - Hello! I'm Vince
 [![Static Badge](https://img.shields.io/badge/%40v11nc33-444?logo=github&logoColor=white)](https://github.com/v11nc33)
 [![Static Badge](https://img.shields.io/badge/%40v11nc33-1da1f2?logo=twitter&logoColor=white)](https://twitter.com/v11nc33)
 
