@@ -31,4 +31,4 @@ I do not offer my services at the moment. I develop and offer my iade when the o
 ## 📡 - Contact me
  - ![E-mail](https://media.discordapp.net/attachments/1133904515570094241/1135724055018877048/Sans_titre.png "E-mail") Contact me by e-mail with [vincentgvcontact@gmail.com](vincentgvcontact@gmail.com).
 
-### aaaaaa aaa
+### Based on [@maakspro](https://github.com/maakspro) README section. Emojis all designed by me - Copyright © v11nc33 - 2023-2023 - All rights reserved.
