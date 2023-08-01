@@ -6,9 +6,9 @@
 
 I do not offer my services at the moment. I develop and offer my iade when the opportunity arises. So don't contact me asking for help or asking me to code software for you, I won't answer you.
 
-Honestly, I don't force myself to code. I do it because I like it :)
+I have already worked on several projects like [FiveM](https://fivem.net) and [Minecraft](https://minecraft.net) servers. My first successful FiveM server was "Montreal Life Roleplay" but it ended badly :/ (don't ask me to go into details)
 
-I have already worked on several projects like FiveM and Minecraft servers. My first successful FiveM server was "Montreal Life Roleplay" but it ended badly :/ (don't ask me to go into details)
+Honestly, I don't force myself to code. I do it because I like it :)
 
 ## 💻 - Languages & Tools
 - ![HTML5](https://media.discordapp.net/attachments/1133904515570094241/1135711251352277062/html_16x16.png "HTML5") **HTML5** / **CSS3** ![CSS3](https://media.discordapp.net/attachments/1133904515570094241/1135714399580069898/Sans_titre.png "CSS3") | Websites, GUI & Interfaces 
