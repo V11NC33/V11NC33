@@ -19,7 +19,7 @@ Honestly, I don't force myself to code. I do it because I like it :)
 ###
 - ![Visual Studio Code](https://media.discordapp.net/attachments/1133904515570094241/1135717351782875146/Sans_titre.png "Visual Studio Code") [**Visual Studio Code**](https://code.visualstudio.com/) | Base Coding Software
 - ![paint.net](https://media.discordapp.net/attachments/1133904515570094241/1135717945453051904/Sans_titre.png "paint.net") [**paint.net**](https://getpaint.net) | Base Design Software
-- ![Procreate Pocket](https://media.discordapp.net/attachments/1133904515570094241/1135718552930885632/Sans_titre.png "Procreate Pocket") [**Procreate Pocket**](https://procreate.com) | Second Design Software
+- ![Procreate Pocket](https://media.discordapp.net/attachments/1133904515570094241/1135718552930885632/Sans_titre.png "Procreate Pocket") [**Procreate Pocket**](https://procreate.com/pocket) | Second Design Software
 - ![Bluestacks](https://media.discordapp.net/attachments/1133904515570094241/1135720068559413319/Sans_titre.png "Bluestacks") [**BlueStacks**](https://bluestacks.com) | Modding Games & Discord Bots Management
 - ![Mimo](https://media.discordapp.net/attachments/1133904515570094241/1135719572247417033/Sans_titre.png "Mimo") [**Mimo**](https://mimo.org) | Learning code on Phone
 
