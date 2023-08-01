@@ -17,7 +17,7 @@ Honestly, I don't force myself to code. I do it because I like it :)
 - ![SQL](https://media.discordapp.net/attachments/1133904515570094241/1135713579367145482/Sans_titre.png "SQL") **SQL** | FiveM Servers Databases
 - ![PHP](https://media.discordapp.net/attachments/1133904515570094241/1135713835949494364/php_16x16.png "PHP") **PHP** | FiveM Servers Databases Management
 ###
-- ![Visual Studio Code](https://media.discordapp.net/attachments/1133904515570094241/1135717351782875146/Sans_titre.png "Visual Studio Code") **Visual Studio Code** | Base Coding Software
+- ![Visual Studio Code](https://media.discordapp.net/attachments/1133904515570094241/1135717351782875146/Sans_titre.png "Visual Studio Code") [**Visual Studio Code**](https://code.visualstudio.com/) | Base Coding Software
 - ![paint.net](https://media.discordapp.net/attachments/1133904515570094241/1135717945453051904/Sans_titre.png "paint.net") **paint.net** | Base Design Software
 - ![Procreate Pocket](https://media.discordapp.net/attachments/1133904515570094241/1135718552930885632/Sans_titre.png "Procreate Pocket") **Procreate Pocket** | Second Design Software
 - ![Bluestacks](https://media.discordapp.net/attachments/1133904515570094241/1135720068559413319/Sans_titre.png "Bluestacks") **BlueStacks** | Modding Games & Discord Bots Management
