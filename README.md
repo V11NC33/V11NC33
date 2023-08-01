@@ -29,4 +29,4 @@ I do not offer my services at the moment. I develop and offer my iade when the o
  - ![GitHub](https://media.discordapp.net/attachments/1133904515570094241/1135723243802722364/Sans_titre.png "GitHub") Profile - [@v11nc33](https://github.com/v11nc33)
 
 ## 📡 - Contact me
- - Contact me by e-mail with [vincentgvcontact@gmail.com](vincentgvcontact@gmail.com).
+ - ![E-mail](https://media.discordapp.net/attachments/1133904515570094241/1135724055018877048/Sans_titre.png "E-mail") Contact me by e-mail with [vincentgvcontact@gmail.com](vincentgvcontact@gmail.com).
