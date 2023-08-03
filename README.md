@@ -36,4 +36,4 @@ Honestly, I don't force myself to code. I do it because I like it :)
  - Contact me by e-mail with [v11nc33dev@gmail.com](v11nc33dev@gmail.com).
 
 # 
-### You are not allowed to take these emojis here. Please take it here [here](https://github.com/microsoft/fluentui-emoji/tree/main).
+You are not allowed to take these emojis here. Please take it here [here](https://github.com/microsoft/fluentui-emoji/tree/main).
