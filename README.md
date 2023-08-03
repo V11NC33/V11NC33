@@ -34,6 +34,3 @@ Honestly, I don't force myself to code. I do it because I like it :)
 
 ## ![📧](https://media.discordapp.net/attachments/1136690009236328692/1136750451681923162/Sans_titre.png) - Contact me
  - Contact me by e-mail with [v11nc33dev@gmail.com](v11nc33dev@gmail.com).
-
-# 
-You are not allowed to take these emojis here. Please take it here [here](https://github.com/microsoft/fluentui-emoji/tree/main).
