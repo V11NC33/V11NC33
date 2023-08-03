@@ -6,7 +6,7 @@
 
 I do not offer my services at the moment. I develop and offer my iade when the opportunity arises. So don't contact me asking for help or asking me to code software for you, I won't answer you.
 
-I have already worked on several projects like [FiveM](https://fivem.net) and [Minecraft](https://minecraft.net) servers. My first successful FiveM server was "Montreal Life Roleplay" but it ended badly :/ (don't ask me to go into details)
+I have already worked on several projects like [FiveM](https://fivem.net) and [Minecraft](https://minecraft.net) servers and I am open to working with you on projects in this genre or I know about it. If you need a FiveM or Minecraft developer, contact me via the email address at the bottom of the page.
 
 Honestly, I don't force myself to code. I do it because I like it :)
 
