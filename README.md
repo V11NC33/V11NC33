@@ -1,4 +1,4 @@
-# 💎 - Hello! I'm Vince
+# ![Gem stone](https://github.com/microsoft/fluentui-emoji/blob/main/assets/Gem%20stone/3D/gem_stone_3d.png?raw=true) - Hello! I'm Vince
 [![Static Badge](https://img.shields.io/badge/%40v11nc33-444?logo=github&logoColor=white)](https://github.com/v11nc33)
 [![Static Badge](https://img.shields.io/badge/%40v11nc33-1da1f2?logo=twitter&logoColor=white)](https://twitter.com/v11nc33)
 
