@@ -4,7 +4,7 @@
 
 ![Waving hand](https://media.discordapp.net/attachments/1133904515570094241/1135721230037688360/Sans_titre.png "Waving hand") Hello! My name is **Vince**, I live in Quebec and I'm a part-time developer.
 
-~~I do not offer my services at the moment. I develop and offer my iade when the opportunity arises. So don't contact me asking for help or asking me to code software for you, I won't answer you.~~
+~~I do not offer my services at the moment. I develop and offer my help when the opportunity arises. So don't contact me asking for help or asking me to code software for you, I won't answer you.~~
 
 I have already worked on several projects like [FiveM](https://fivem.net) and [Minecraft](https://minecraft.net) servers and I am open to working with you on projects in this genre or I know about it. If you need a FiveM or Minecraft developer, contact me via my [professional email address](v11nc33dev@gmail.com).
 
