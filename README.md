@@ -6,7 +6,7 @@
 
 ~~I do not offer my services at the moment. I develop and offer my help when the opportunity arises. So don't contact me asking for help or asking me to code software for you, I won't answer you.~~
 
-![📌](https://media.discordapp.net/attachments/1136690009236328692/1136764097136963704/Sans_titre.png) I have already worked on several projects like [FiveM](https://fivem.net) and [Minecraft](https://minecraft.net) servers and I am open to working with you on projects in this genre or I know about it. If you need a FiveM or Minecraft developer, contact me via my [professional email address](v11nc33dev@gmail.com).
+![📌](https://media.discordapp.net/attachments/1136690009236328692/1136764097136963704/Sans_titre.png) I have already worked on several projects like [FiveM](https://fivem.net) and [Minecraft](https://minecraft.net) servers and I am open to working with you on projects in this genre or I know about it. If you need a FiveM or Minecraft developer, contact me via my [professional e-mail address](v11nc33dev@gmail.com).
 
 Honestly, I don't force myself to code. I do it because I like it :)
 
