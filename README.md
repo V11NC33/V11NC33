@@ -27,7 +27,7 @@ Honestly, I don't force myself to code. I do it because I like it :)
 - **Hobbies** | Design, Management, Video & Photo Editing & Developement
 - **Works** | Designer, Contributor, Atlas & Wiki Manager @ Place Québec
 
-## 🛰️ - Find me
+## ![🛰️](https://media.discordapp.net/attachments/1136690009236328692/1136749469409480815/Sans_titre.png) - Find me
 
  - ![Twitter](https://media.discordapp.net/attachments/1133904515570094241/1135723017805254726/Sans_titre.png "Twitter") Twitter - [@v11nc33](https://twitter.com/v11nc33)
  - ![GitHub](https://media.discordapp.net/attachments/1133904515570094241/1135723243802722364/Sans_titre.png "GitHub") Profile - [@v11nc33](https://github.com/v11nc33)
