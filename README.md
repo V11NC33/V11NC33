@@ -25,17 +25,17 @@ Honestly, I don't force myself to code. I do it because I like it :)
 - [![phpMyAdmin](https://media.discordapp.net/attachments/1137004043978412045/1137096151158493194/Sans_titre.png)](https://github.com/v11nc33) [**phpMyAdmin**](https://www.phpmyadmin.net/) | Databases Management
 - [![XAMPP](https://media.discordapp.net/attachments/1137004043978412045/1137096690306920638/Sans_titre.png)](https://github.com/v11nc33) [**XAMPP**](https://www.apachefriends.org/download.html) | Databases Servers
 
-## ![⚙️](https://media.discordapp.net/attachments/1136690009236328692/1136754909857976370/Sans_titre.png) - Preferences
-- ![🌐](https://media.discordapp.net/attachments/1136690009236328692/1136755745463996499/Sans_titre.png) **Languages:** French & English
+## [![⚙️](https://media.discordapp.net/attachments/1136690009236328692/1136754909857976370/Sans_titre.png)](https://github.com/v11nc33) - Preferences
+- [![🌐](https://media.discordapp.net/attachments/1136690009236328692/1136755745463996499/Sans_titre.png)](https://github.com/v11nc33) **Languages:** French & English
 
-## ![💼](https://media.discordapp.net/attachments/1136690009236328692/1136748319436177559/Sans_titre.png) - Projects & Works
+## [![💼](https://media.discordapp.net/attachments/1136690009236328692/1136748319436177559/Sans_titre.png)](https://github.com/v11nc33) - Projects & Works
 - **Hobbies** | Design, Management, Video & Photo Editing & Developement
 - **Works** | Designer, Contributor, Atlas & Wiki Manager @ Place Québec
 
-## ![🛰️](https://media.discordapp.net/attachments/1136690009236328692/1136749469409480815/Sans_titre.png) - Find me
+## [![🛰️](https://media.discordapp.net/attachments/1136690009236328692/1136749469409480815/Sans_titre.png)](https://github.com/v11nc33) - Find me
 
- - ![Twitter](https://media.discordapp.net/attachments/1133904515570094241/1135723017805254726/Sans_titre.png) Twitter - [@v11nc33](https://twitter.com/v11nc33)
- - ![GitHub](https://media.discordapp.net/attachments/1133904515570094241/1135723243802722364/Sans_titre.png) Profile - [@v11nc33](https://github.com/v11nc33)
+ - [![Twitter](https://media.discordapp.net/attachments/1133904515570094241/1135723017805254726/Sans_titre.png)](https://github.com/v11nc33) Twitter - [@v11nc33](https://twitter.com/v11nc33)
+ - [![GitHub](https://media.discordapp.net/attachments/1133904515570094241/1135723243802722364/Sans_titre.png)](https://github.com/v11nc33) Profile - [@v11nc33](https://github.com/v11nc33)
 
-## ![📧](https://media.discordapp.net/attachments/1136690009236328692/1136750451681923162/Sans_titre.png) - Contact me
+## [![📧](https://media.discordapp.net/attachments/1136690009236328692/1136750451681923162/Sans_titre.png)](https://github.com/v11nc33) - Contact me
  - Contact me by e-mail with [v11nc33dev@gmail.com](v11nc33dev@gmail.com).
