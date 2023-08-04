@@ -6,11 +6,11 @@
 
 ~~I do not offer my services at the moment. I develop and offer my help when the opportunity arises. So don't contact me asking for help or asking me to code software for you, I won't answer you.~~
 
-![📌](https://media.discordapp.net/attachments/1136690009236328692/1136764097136963704/Sans_titre.png) I have already worked on several projects like [FiveM](https://fivem.net) and [Minecraft](https://minecraft.net) servers and I am open to working with you on projects in this genre or I know about it. If you need a FiveM or Minecraft developer, contact me via my [professional e-mail address](v11nc33dev@gmail.com).
+[![📌](https://media.discordapp.net/attachments/1136690009236328692/1136764097136963704/Sans_titre.png)](https://github.com/v11nc33) I have already worked on several projects like [FiveM](https://fivem.net) and [Minecraft](https://minecraft.net) servers and I am open to working with you on projects in this genre or I know about it. If you need a FiveM or Minecraft developer, contact me via my [professional e-mail address](v11nc33dev@gmail.com).
 
 Honestly, I don't force myself to code. I do it because I like it :)
 
-## ![💻](https://media.discordapp.net/attachments/1136690009236328692/1136747840538955796/Sans_titre.png) - Languages & Tools
+## [![💻](https://media.discordapp.net/attachments/1136690009236328692/1136747840538955796/Sans_titre.png)](https://github.com/v11nc33) - Languages & Tools
 - ![HTML5](https://media.discordapp.net/attachments/1133904515570094241/1135711251352277062/html_16x16.png "HTML5") **HTML5** / **CSS3** ![CSS3](https://media.discordapp.net/attachments/1133904515570094241/1135714399580069898/Sans_titre.png "CSS3") | Websites, GUI & Interfaces 
 - ![JavaScript](https://media.discordapp.net/attachments/1133904515570094241/1135711751892107367/javascript_16x16.png "JavaScript") **JavaScript** / **NodeJS** ![NodeJS](https://media.discordapp.net/attachments/1133904515570094241/1135715234817003570/Sans_titre.png "NodeJS") | Currently learning...
 - ![Java](https://media.discordapp.net/attachments/1133904515570094241/1135712552815435776/java_16x16.png "Java") **Java** | Minecraft Servers
