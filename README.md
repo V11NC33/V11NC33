@@ -30,7 +30,7 @@ Honestly, I don't force myself to code. I do it because I like it :)
 
 ## [![💼](https://media.discordapp.net/attachments/1136690009236328692/1136748319436177559/Sans_titre.png)](https://github.com/v11nc33) - Projects & Works
 - **Hobbies** | Design, Management, Video & Photo Editing & Developement
-- **Works** | Designer, Contributor, Atlas & Wiki Manager @ Place Québec
+- **Works** | Designer, Contributor, Atlas & Wiki Manager @ Place Québec / Chief Executive Officer & Developer @ 514 RolePlay
 
 ## [![🛰️](https://media.discordapp.net/attachments/1136690009236328692/1136749469409480815/Sans_titre.png)](https://github.com/v11nc33) - Find me
 
