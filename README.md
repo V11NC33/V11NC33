@@ -22,6 +22,8 @@ Honestly, I don't force myself to code. I do it because I like it :)
 - ![Procreate Pocket](https://media.discordapp.net/attachments/1133904515570094241/1135718552930885632/Sans_titre.png "Procreate Pocket") [**Procreate Pocket**](https://procreate.com/pocket) | Second Design Software
 - ![Bluestacks](https://media.discordapp.net/attachments/1133904515570094241/1135720068559413319/Sans_titre.png "Bluestacks") [**BlueStacks**](https://bluestacks.com) | Modding Games & Discord Bots Management
 - ![Mimo](https://media.discordapp.net/attachments/1133904515570094241/1135719572247417033/Sans_titre.png "Mimo") [**Mimo**](https://mimo.org) | Learning code on Phone
+- **phpMyAdmin** | Databases Management
+- **XAMPP** | Databases Servers
 
 ## ![⚙️](https://media.discordapp.net/attachments/1136690009236328692/1136754909857976370/Sans_titre.png) - Preferences
 - ![🌐](https://media.discordapp.net/attachments/1136690009236328692/1136755745463996499/Sans_titre.png) **Languages:** French & English
