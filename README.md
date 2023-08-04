@@ -12,12 +12,12 @@ Honestly, I don't force myself to code. I do it because I like it :)
 
 ## [![💻](https://media.discordapp.net/attachments/1136690009236328692/1136747840538955796/Sans_titre.png)](https://github.com/v11nc33) - Languages & Tools
 - [![HTML5](https://media.discordapp.net/attachments/1133904515570094241/1135711251352277062/html_16x16.png)](https://github.com/v11nc33) **HTML5** / **CSS3** [![CSS3](https://media.discordapp.net/attachments/1133904515570094241/1135714399580069898/Sans_titre.png "CSS3")](https://github.com/v11nc33) | Websites, GUI & Interfaces 
-- [![JavaScript](https://media.discordapp.net/attachments/1133904515570094241/1135711751892107367/javascript_16x16.png "JavaScript")](https://github.com/v11nc33) **JavaScript** / **NodeJS** [![NodeJS](https://media.discordapp.net/attachments/1133904515570094241/1135715234817003570/Sans_titre.png "NodeJS") | Currently learning...
-- ![Java](https://media.discordapp.net/attachments/1133904515570094241/1135712552815435776/java_16x16.png "Java") **Java** | Minecraft Servers
-- ![SQL](https://media.discordapp.net/attachments/1133904515570094241/1135713579367145482/Sans_titre.png "SQL") **SQL** | FiveM Servers Databases
-- ![PHP](https://media.discordapp.net/attachments/1133904515570094241/1135713835949494364/php_16x16.png "PHP") **PHP** | FiveM Servers Databases Management
+- [![JavaScript](https://media.discordapp.net/attachments/1133904515570094241/1135711751892107367/javascript_16x16.png "JavaScript")](https://github.com/v11nc33) **JavaScript** / **NodeJS** [![NodeJS](https://media.discordapp.net/attachments/1133904515570094241/1135715234817003570/Sans_titre.png "NodeJS")](https://github.com/v11nc33) | Currently learning...
+- [![Java](https://media.discordapp.net/attachments/1133904515570094241/1135712552815435776/java_16x16.png "Java")](https://github.com/v11nc33) **Java** | Minecraft Servers
+- [![SQL](https://media.discordapp.net/attachments/1133904515570094241/1135713579367145482/Sans_titre.png "SQL")](https://github.com/v11nc33) **SQL** | FiveM Servers Databases
+- [![PHP](https://media.discordapp.net/attachments/1133904515570094241/1135713835949494364/php_16x16.png "PHP")](https://github.com/v11nc33) **PHP** | FiveM Servers Databases Management
 ###
-- ![Visual Studio Code](https://media.discordapp.net/attachments/1133904515570094241/1135717351782875146/Sans_titre.png "Visual Studio Code") [**Visual Studio Code**](https://code.visualstudio.com/) | Base Coding Software
+- [![Visual Studio Code](https://media.discordapp.net/attachments/1133904515570094241/1135717351782875146/Sans_titre.png "Visual Studio Code")](https://github.com/v11nc33) [**Visual Studio Code**](https://code.visualstudio.com/) | Base Coding Software
 - ![paint.net](https://media.discordapp.net/attachments/1133904515570094241/1135717945453051904/Sans_titre.png "paint.net") [**paint.net**](https://getpaint.net) | Base Design Software
 - ![Procreate Pocket](https://media.discordapp.net/attachments/1133904515570094241/1135718552930885632/Sans_titre.png "Procreate Pocket") [**Procreate Pocket**](https://procreate.com/pocket) | Second Design Software
 - ![Bluestacks](https://media.discordapp.net/attachments/1133904515570094241/1135720068559413319/Sans_titre.png "Bluestacks") [**BlueStacks**](https://bluestacks.com) | Modding Games & Discord Bots Management
