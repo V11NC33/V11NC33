@@ -1,8 +1,8 @@
-# ![💎](https://media.discordapp.net/attachments/1136690009236328692/1136747079285358633/Sans_titre.png) - Hello! I'm Vince
+# [![💎](https://media.discordapp.net/attachments/1136690009236328692/1136747079285358633/Sans_titre.png)](https://github.com/v11nc33) - Hello! I'm Vince
 [![Static Badge](https://img.shields.io/badge/%40v11nc33-444?logo=github&logoColor=white)](https://github.com/v11nc33)
 [![Static Badge](https://img.shields.io/badge/%40v11nc33-1da1f2?logo=twitter&logoColor=white)](https://twitter.com/v11nc33)
 
-![👋](https://media.discordapp.net/attachments/1133904515570094241/1135721230037688360/Sans_titre.png) Hello! My name is **Vince**, I live in ![📍](https://media.discordapp.net/attachments/1136690009236328692/1136764751070887937/Sans_titre.png)Quebec and I'm a part-time developer. (except on request)
+[![👋](https://media.discordapp.net/attachments/1133904515570094241/1135721230037688360/Sans_titre.png)](https://github.com/v11nc33) Hello! My name is **Vince**, I live in [![📍](https://media.discordapp.net/attachments/1136690009236328692/1136764751070887937/Sans_titre.png)](https://github.com/v11nc33)Quebec and I'm a part-time developer. (except on request)
 
 ~~I do not offer my services at the moment. I develop and offer my help when the opportunity arises. So don't contact me asking for help or asking me to code software for you, I won't answer you.~~
 
