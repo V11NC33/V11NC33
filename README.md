@@ -22,7 +22,7 @@ Honestly, I don't force myself to code. I do it because I like it :)
 - [![Procreate Pocket](https://media.discordapp.net/attachments/1133904515570094241/1135718552930885632/Sans_titre.png "Procreate Pocket")](https://github.com/v11nc33) [**Procreate Pocket**](https://procreate.com/pocket) | Second Design Software
 - [![Bluestacks](https://media.discordapp.net/attachments/1133904515570094241/1135720068559413319/Sans_titre.png "Bluestacks")](https://github.com/v11nc33) [**BlueStacks**](https://bluestacks.com) | Modding Games & Discord Bots Management
 - [![Mimo](https://media.discordapp.net/attachments/1133904515570094241/1135719572247417033/Sans_titre.png "Mimo")](https://github.com/v11nc33) [**Mimo**](https://mimo.org) | Learning code on Phone
-- [![phpMyAdmin](https://media.discordapp.net/attachments/1137004043978412045/1137096151158493194/Sans_titre.png)](https://github.com/v11nc33) [**phpMyAdmin**](https://www.phpmyadmin.net/) | Databases Management
+- [![phpMyAdmin](https://media.discordapp.net/attachments/1136690009236328692/1137175016442691694/Sans_titre.png)](https://github.com/v11nc33) [**phpMyAdmin**](https://www.phpmyadmin.net/) | Databases Management
 - [![XAMPP](https://media.discordapp.net/attachments/1137004043978412045/1137096690306920638/Sans_titre.png)](https://github.com/v11nc33) [**XAMPP**](https://www.apachefriends.org/download.html) | Databases Servers
 
 ## [![⚙️](https://media.discordapp.net/attachments/1136690009236328692/1136754909857976370/Sans_titre.png)](https://github.com/v11nc33) - Preferences
