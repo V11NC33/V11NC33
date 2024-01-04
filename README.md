@@ -3,7 +3,7 @@ Hi! I'm **Vince**, a part-time developer. I live in [Quebec, Canada](https://www
 
 #### Contributions
 - Contributions on several [Minecraft](https://minecarft.net) and [FiveM](https://fivem.net) servers and [Roblox](https://roblox.com) games.
-- Atlas & Wiki Manager for Keltic Agency.
+- Founder & Executive for Keltic Agency.
 
 #### Find me
 - Twitter: [@v11nc33](https://twitter.com/v11nc33)
