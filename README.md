@@ -13,4 +13,4 @@ Hi! I'm **Vince**, a part-time developer. I live in [Quebec, Canada](https://www
 - You can contact me with my professionnal mail:
 - [v11nc33d3v.pro@gmail.com](mailto:v11nc33d3v.pro@gmail.com)
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,lua,java,python)](https://github.com/v11nc33)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,lua,java,python,vscode,figma)](https://github.com/v11nc33)
