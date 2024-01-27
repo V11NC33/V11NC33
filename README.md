@@ -6,7 +6,7 @@ Hi! I'm **Vince**, a developer. I live in [Quebec, Canada](https://www.google.ca
 - Founder & Executive for Keltic Agency.
 
 #### Find me
-- Twitter: [@v11nc33](https://twitter.com/v11nc33)
+- X: [I'm changing some things on it..](https://x.com)
 - Profile: [@v11nc33](https://github.com/v11nc33)
 
 #### Contact
