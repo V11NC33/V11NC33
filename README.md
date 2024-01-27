@@ -3,7 +3,7 @@ Hi! I'm **Vince**, a developer. I live in [Quebec, Canada](https://www.google.ca
 
 #### Contributions
 - Contributions on several [Minecraft](https://minecarft.net) and [FiveM](https://fivem.net) servers and [Roblox](https://roblox.com) games.
-- Founder & Executive for Keltic Agency.
+- Owner - Founder & Executive for [Keltic Agency](https://github.com/Keltic-Agency).
 
 #### Find me
 - X: [I'm changing some things on it..](https://x.com)
